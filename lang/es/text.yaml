@@ -1,4 +1,4 @@
-title: JSDayES 2018
+title: JSDayES 2019
 header:
     changeNavState: Cambiar estado navegación
     home: Home
@@ -24,7 +24,7 @@ cookies:
 streaming:
     seeStreaming: Ver streaming
     title: ¡Síguenos en directo!
-    text: Sigue por streaming el JSDayES 2018, la mayor conferencia sobre JavaScript en España.
+    text: Sigue por streaming el JSDayES 2019, la mayor conferencia sobre JavaScript en España.
 
 newsletter:
     url: https://app.mailjet.com/widget/iframe/2WPT/6fy
@@ -35,10 +35,10 @@ where:
     transport: Transporte
 
 home:
-    welcome: Bienvenido a JSDayES 2018
+    welcome: Bienvenido a JSDayES 2019
     text1: Charlas & Talleres
     text2: JavaScript, NodeJS, Angular, Polymer...
-    date: 20 Octubre 2018 <br/> Madrid
+    date: 20 Octubre 2019 <br/> Madrid
 
 speakers:
     title: Speakers
@@ -52,10 +52,10 @@ cfp:
     description: ¿Quieres participar como ponente dando una charla? <br> No te lo pienses. Accede al formulario e incribe tu propuesta.
     dates: Fechas Importantes
     limit: Límite para envío de propuestas.
-    datelimit: 31/05/2018
+    datelimit: 31/05/2019
     notification: Fecha en que comunicaremos las propuestas aceptadas
     notificationTitle: Notificación de Aceptación
-    notificationlimit: 07/2018
+    notificationlimit: 07/2019
     learn: Más información del CFP
 
 eventPresentation:
@@ -136,4 +136,4 @@ footer:
     twitter: Twitter de JSDayES
     youtube: Canal Youtube de JSDayES
     google: Google Plus de JSDayES
-    copyright: JSDayES - 4a Edición &copy; 2018
+    copyright: JSDayES - 4a Edición &copy; 2019

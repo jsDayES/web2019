@@ -1,21 +1,21 @@
 {
     "mode": "wait",
     "sections": {
-        "streaming": true,
-        "speakers": true,
-        "schedule": true,
+        "streaming": false,
+        "speakers": false,
+        "schedule": false,
         "presentation": false,
         "where": true,
-        "tickets": true,
+        "tickets": false,
         "newsletter": true,
         "contact": true,
         "organizers": false,
-        "sponsors": true,
+        "sponsors": false,
         "blog": true,
         "codeOfConduct": true,
         "lastEdition": false
     },
-    "koliseoCfp": "https://www.koliseo.com/jsdayes/jsday-es-2018/r4p/5679439232892928#/",
+    "koliseoCfp": "https://www.koliseo.com/jsdayes/jsday-es-2019/r4p/5679439232892928#/",
     "speakers": [
         {
             "name": "Catalina Oyaneder",

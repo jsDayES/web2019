@@ -1,4 +1,4 @@
-title: JSDayES 2018
+title: JSDayES 2019
 header:
     changeNavState: Change navigation state
     home: Home
@@ -24,7 +24,7 @@ cookies:
 streaming:
     seeStreaming: See streaming
     title: Follow us live!
-    text: Follow the JSDayES 2018 streaming, the largest conference on JavaScript in Spain.
+    text: Follow the JSDayES 2019 streaming, the largest conference on JavaScript in Spain.
 
 newsletter:
     url: https://app.mailjet.com/widget/iframe/2WPT/6ci
@@ -35,10 +35,10 @@ where:
     transport: Transport
 
 home:
-    welcome: Welcome to JSDayES 2018
+    welcome: Welcome to JSDayES 2019
     text1: Talks & Workshops
-    text2: JavaScript, NodeJS, AngularJS, Polymer...
-    date: 20 October 2018 <br/> Madrid
+    text2: JavaScript, NodeJS, Angular, Polymer...
+    date: 5 October 2019 <br/> Madrid
 
 speakers:
     title: Speakers
@@ -52,10 +52,10 @@ cfp:
     description: Do you want to give a talk? <br> Do not think about it. Access and sign up!
     dates: Important dates
     limit: Limit for submitting proposals.
-    datelimit: May 31th, 2018
+    datelimit: May 31th, 2019
     notification: Date when we'll communicate accepted proposals.
     notificationTitle: Notification of acceptance
-    notificationlimit: Mid June 2018
+    notificationlimit: Mid June 2019
     learn: Learn more about the CFP
 
 eventPresentation:
@@ -136,4 +136,4 @@ footer:
     twitter: JSDayES Twitter
     youtube: JSDayES Youtube
     google: JSDayES Google Plus
-    copyright: JSDayES - 4rd Edition &copy; 2018
+    copyright: JSDayES - 5th Edition &copy; 2019
