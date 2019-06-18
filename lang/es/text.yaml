@@ -35,10 +35,11 @@ where:
     transport: Transporte
 
 home:
-    welcome: Bienvenido a JSDayES 2019
+    welcome: JSDayES 2019
     text1: Charlas & Talleres
     text2: JavaScript, NodeJS, Angular, Polymer...
-    date: 5 Octubre 2019 <br/> Madrid
+    date: Madrid
+    subtitle: Lamentamos comunicaros que este año no habrá JSDayES2019. Los organizadores nos tomamos un descanso para volver, en mayo de 2020, con energías renovadas! ¡Esperamos veros en JSDayES2020!
 
 speakers:
     title: Speakers
